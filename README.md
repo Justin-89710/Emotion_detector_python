@@ -16,7 +16,7 @@ En heb je mac of linux volg dan de instructies op deze link: https://docs.python
 3. ga naar je terminal op je IDE
 4. tiep daarna het volgende in je terminal: "pip install -r requirements.txt" dan zou hij alle nodige dingen moeten installeren.
 5. daarna na dat het is geinstaleerd kan je het als het goed is opstarten, dat doe je door in de terminal: "python emotion.py --mode display" te tiepen.
-6. dan zou hij als het goed is moeten werken! zo niet contact mij alstjeblieft zodat ik je kan helpen! email: 089710@glr.nl
+6. dan zou hij als het goed is moeten werken! zo niet contact mij alstjeblieft zodat ik je kan helpen! email: jljnootenboom@gmial.com
 
 Veel plezier,
 
